@@ -7,7 +7,7 @@ st.set_page_config(page_title="Olist E-commerce Case Study", layout="wide")
 
 st.title("Driving Olist’s Success with Data-Powered Decisions 🚀")
 
-st.write("""Welcome to my solution for the Olist Case Study! As a **Membership Analyst** at Olist, my gaol is to **deepen our understanding of customer behavior** and uncover **valuable insights** that drive actionable business opportunities.        
+st.write("""Welcome to my solution for the Olist Case Study! As a **Membership Analyst** at Olist, my goal is to **deepen our understanding of customer behavior** and uncover **valuable insights** that drive actionable business opportunities.        
 
 ### **What do I aim to achieve through my solution?**
 1️⃣ **Maximize the success** of Olist's Membership initiative through a **data-driven and customer centric approach**.  
