@@ -76,7 +76,7 @@ st.markdown("""
 #### RFM Model:
 - **Recency**: How recently did the customer place the last order?
 - **Frequency**: How often does the customer place orders?
-- **Monetary**: How much does the customer spend on average?
+- **Monetary**: How much has the customer spent in total?
 """)
 
 
